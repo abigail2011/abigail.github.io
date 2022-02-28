@@ -1,6 +1,15 @@
-p{
+Header p{
 color:blue;
 }
+
 img {
 	border : 2px solid green;
+}
+
+nav a{
+	padding : 10px;
+}
+
+nav{
+	background-color:light-blue;
 }
